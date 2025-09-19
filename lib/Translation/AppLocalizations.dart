@@ -90,6 +90,7 @@ class AppLocalizations {
           "password_required": "Le mot de passe est requis",
           "password_too_short": "Le mot de passe doit contenir au moins 6 caractères",
         };
+        
         break;
       case 'ar':
         _localizedStrings = {
